@@ -15,7 +15,8 @@ EMPLOYEE - Stores employee ID, name, address, and email
 
 BOOK_AUTHOR - Mapping table for books and authors
 
-Key constraints and relationships:
+**Key constraints and relationships:**
+
 Primary keys on ID fields for each main entity table
 
 Foreign keys from BOOK to STUDENT, EMPLOYEE, and PUBLISHER
